@@ -1,1 +1,0 @@
-# Waste-segregation-helper-Project
