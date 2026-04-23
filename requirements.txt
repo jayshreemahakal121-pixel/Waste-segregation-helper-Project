@@ -1,7 +1,5 @@
 
-opencv-python-headless
-streamlit
-numpy
 tensorflow
+pandas
 pillow
-opencv-python
+streamlit
