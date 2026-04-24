@@ -40,8 +40,8 @@ st.markdown("""
 # --- WASTE MAPPING ---
 # AI jo keywords pehchanega unhe bins mein map karna
 WASTE_MAP = {
-    "Organic": ["apple", "banana", "orange", "lemon", "broccoli", "head_cabbage", "mushroom", "cucumber", "Agricultural Waste"],
-    "Recycle": ["water_bottle", "pill_bottle", "can", "carton", "envelope", "notebook", "plastic_bag"],
+    "Organic": ["apple", "banana", "orange", "lemon", "broccoli", "head_cabbage", "mushroom", "cucumber", "Agricultural Waste", "fruit waste", "vegetables waste"],
+    "Recycle": ["water_bottle", "pill_bottle", "can", "carton", "envelope", "notebook", "plastic_bag", "aluminium waste", "steel waste", "hazardous waste"],
     "Landfill": ["diaper", "styrofoam", "cigarette", "plastic_wrap", "lighter", "Paper", "cardboard", "Wood", "Asphalt"]
 }
 
